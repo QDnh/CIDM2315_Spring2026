@@ -85,22 +85,18 @@ class Customer
     public string CustomerName
     {
         get { return this.customerName; }
-        set { this.customerName = value; }
     }
     public int CustomerAge
     {
         get { return this.customerAge; }
-        set { this.customerAge = value; }
     }
     public string CustomerCity
     {
         get { return this.customerCity; }
-        set { this.customerCity = value; }
     }
     public double CustomerCredit
     {
         get { return this.customerCredit; }
-        set { this.customerCredit = value; }
     }
 }
 
